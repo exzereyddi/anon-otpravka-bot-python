@@ -1,2 +1,5 @@
-# anon-otpravka-bot-python
-anon-otpravka-bot-python
+
+$ pip install pyTelegramBotAPI
+
+для обновления
+pip install pytelegrambotapi --upgrade
