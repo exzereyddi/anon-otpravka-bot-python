@@ -1,9 +1,9 @@
 
-$ pip install pyTelegramBotAPI
+    $ pip install pyTelegramBotAPI
 
 для обновления
 
-pip install pytelegrambotapi --upgrade
+    pip install pytelegrambotapi --upgrade
 
 ета хуйня типа регает кто будет админ абсолютно всегда, те кто не вписан в админ ( админ.джсон ) им не будет доступны команды и бот даже не отвечает на сообщения
 
